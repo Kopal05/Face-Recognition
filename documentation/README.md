@@ -32,10 +32,14 @@ The Haar Cascade Frontal Face algorithm is a popular method for detecting fronta
 1.![Screenshot 2023-11-07 091132](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0008.jpg)
 
 
-2.![Screenshot 2023-11-07 091156](https://github.com/Kopal05/IDS/blob/main/Main/assets/Screenshot%20(206).png)
+2.![Screenshot 2023-11-07 091156](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0010.jpg)
 
 
-3.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/IDS/blob/main/Main/assets/Screenshot%20(207).png)
+3.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0009.jpg)
+
+4.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0005.jpg)
+
+5.![Screenshot 2023-11-07 091209](https://github.com/Kopal05/Face-Recognition/blob/main/assets/Sshots/IMG-20240507-WA0011.jpg)
 
 
 
